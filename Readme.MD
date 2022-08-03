@@ -8,7 +8,7 @@ The frontend is developed in react.js and the backend is developed in FastAPI. T
 # Demo video
 Below is a demo video of the application that I have built.
 
-![Alt Text](Resources/emotion-recognition.gif)
+![Demo GIF](./Resources/emotion-recognition.gif)
 
 High quality youtube video available at - https://youtu.be/aTe05n6T5Vo
 
